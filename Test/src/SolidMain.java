@@ -6,11 +6,8 @@ public class SolidMain {
 
     public static void main(String[] args) {
 
-        System.out.println("here allows all.");
-        System.out.println("here allows all.");
-        System.out.println("here allows all.");
-        System.out.println("here allows all.");        System.out.println("here allows all.");
-        System.out.println("here allows all.");
+        System.out.println("Checkout chcek main branch!");
+
         Canvas canvas = new Canvas();
 
 
